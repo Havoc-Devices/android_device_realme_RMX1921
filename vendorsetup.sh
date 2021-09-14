@@ -9,4 +9,5 @@ git clone https://github.com/PixelExperience/hardware_qcom-caf_sdm845_media.git 
 # Cleanup some hals
 rm -rf hardware/qcom-caf/sm8*
 
-
+# Adapt our device display hal
+cd vendor/havoc && git fetch https://github.com/Havoc-Devices/android_vendor_havoc.git eleven && git cherry-pick 94a7366632d4d57d9183abd4ff2f6d4886eb9d20 && cd ../.. 
