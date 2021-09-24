@@ -27,7 +27,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
         PRIVATE_BUILD_DESC="redfin-user 11 RQ3A.210905.001 7511028 release-keys" \
         PRODUCT_NAME="RMX1921" \
 	TARGET_DEVICE="RMX1921"
-    
-# Havoc Stuff
-HAVOC_MAINTAINER := Probir Ghosh (officialpro)
-HAVOC_GROUP_URL := https://t.me/havoc_RMX1921
