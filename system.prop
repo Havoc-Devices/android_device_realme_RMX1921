@@ -174,5 +174,6 @@ persist.device_config.runtime_native.usap_pool_enabled=true
 ro.product.model=RMX1921
 
 # Havoc stuff
+ro.havoc.device.name=Realme XT
 ro.havoc.group.url=https://t.me/havoc_RMX1921
 ro.havoc.maintainer=Probir Ghosh (officialpro)
