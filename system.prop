@@ -175,7 +175,8 @@ ro.product.model=RMX1921
 # Havoc stuff
 ro.havoc.device.name=Realme XT
 ro.havoc.group.url=https://t.me/havoc_RMX1921
-ro.havoc.maintainer=Probir Ghosh (officialpro)
+ro.havoc.maintainer=Probir Ghosh
+ro.havoc.maintainer.username=officialpro
 
 # Disable vsync for cpu rendered apps
 debug.cpurend.vsync=false
